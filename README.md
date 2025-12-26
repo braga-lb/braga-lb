@@ -1,7 +1,7 @@
 # Olá, eu sou o Levy Braga 👋
 
 ### 🌍 Do Meio Ambiente e Indústria para a Inteligência Artificial
-Minha trajetória é movida pela convergência de disciplinas. Sou **Técnico Ambiental** e ex-**Projetista Industrial**, com uma base sólida de 4 anos em **Sistemas Embarcados**. Atualmente, curso Ciência e Tecnologia na **UFERSA**, focando minha transição de carreira para a **Engenharia de Software**.
+Minha trajetória é movida pela convergência de disciplinas. Sou **Técnico Ambiental** e **Projetista Industrial**, com uma base sólida de 4 anos em **Sistemas Embarcados**. Atualmente, curso Ciência e Tecnologia na **UFERSA**, focando minha transição de carreira para a **Engenharia de Software**.
 
 Como bolsista de pesquisa em **Veículos Autônomos para Agricultura**, uno meu conhecimento sobre o meio ambiente e mecânica para desenvolver soluções de **Visão Computacional** que tornem o campo mais inteligente e sustentável.
 
