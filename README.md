@@ -1,50 +1,49 @@
 # 👨‍💻 Levy Braga
-**Pesquisador de Sistemas Autônomos | Projetista Industrial | Especialista em Sistemas Embarcados**
+**Pesquisador de Sistemas Autônomos | Projetista Industrial | Técnico Ambiental**
 
 ---
 
 ### 📖 Sobre Mim
-Sou um profissional movido pela convergência entre o mundo físico e o digital. Com uma base sólida construída em **2 anos de experiência na indústria** como Projetista Mecânico e **4 anos dominando Sistemas Embarcados**, hoje foco minha carreira na **Engenharia de Software** e **Visão Computacional**.
+Sou um profissional multidisciplinar em transição para a **Engenharia de Software**, com uma trajetória sólida na intersecção entre mecânica, eletrônica e meio ambiente. Atualmente, sou graduando em Ciência e Tecnologia pela **UFERSA** e bolsista de pesquisa no Laboratório de Robótica, focando no desenvolvimento de **Veículos Autônomos para Agricultura (AgTech)**.
 
-Atualmente, sou graduando em Ciência e Tecnologia pela **UFERSA** e bolsista de pesquisa no desenvolvimento de **Veículos Autônomos para Agricultura (AgTech)**. Minha missão é aplicar inteligência artificial e automação para resolver desafios reais no semiárido potiguar, unindo tecnologia de ponta à preservação ambiental.
+Minha experiência une a precisão do **Design Industrial** (2 anos) com a inteligência dos **Sistemas Embarcados** (4 anos), permitindo uma visão holística no desenvolvimento de soluções tecnológicas complexas para o semiárido.
 
 ---
 
-### 🛠️ Expertise Técnica
+### 🛠️ Expertise & Stack Técnica
 
-| **Área** | **Tecnologias e Ferramentas** |
+| Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Software & IA** | Python (OpenCV, NumPy, MediaPipe), Introdução à Engenharia de Software |
-| **Hardware & IoT** | C/C++, Microcontroladores (ESP32, Arduino, STM32), Protocolos (I2C, SPI, UART) |
-| **Indústria & Design** | Projetos Mecânicos, CAD/CAM, SolidWorks, AutoCAD, Leitura Técnica Industrial |
-| **Sustentabilidade** | Técnico Ambiental, Gestão de Recursos, Consultoria Técnica Ambiental |
-| **Ferramentas Dev** | Git, GitHub, Linux (Terminal), Docker, Metodologias Ágeis |
+| **Software & IA** | Python, OpenCV, NumPy, MediaPipe, Lógica de Programação |
+| **Hardware & IoT** | C/C++, Microcontroladores (Arduino, ESP32, STM32), Integração de Sensores |
+| **Indústria** | Projetos Mecânicos, CAD/CAM, SolidWorks, Leitura Técnica, Manufatura |
+| **Ambiental** | Técnico Ambiental, Consultoria, Sustentabilidade em Projetos Tecnológicos |
+| **Ferramentas** | Git, GitHub, Linux (Terminal), Docker |
 
 ---
 
-### 🚜 Pesquisa em Destaque (UFERSA)
-**Projeto: Veículos Autônomos para Agricultura de Precisão**
-* Desenvolvimento de algoritmos de navegação autônoma em terrenos irregulares.
-* Implementação de Visão Computacional para identificação de obstáculos e mapeamento.
-* Integração de sensores ultrassônicos, LIDAR e câmeras em sistemas embarcados de alta performance.
+### 🚜 Projetos de Pesquisa e Inovação (UFERSA)
+**Desenvolvimento de Veículos Autônomos Agrícolas**
+* **Navegação Inteligente:** Implementação de algoritmos para autonomia em ambientes de campo.
+* **Visão Computacional:** Processamento de imagens em tempo real para detecção de obstáculos e mapeamento de solo.
+* **Integração Sensorial:** Fusão de dados de sensores ultrassônicos e câmeras para tomada de decisão.
 
 ---
 
-### 💼 Trajetória Profissional
-* **Projetista Industrial (2 anos):** Atuei no desenvolvimento de componentes mecânicos e otimização de linhas de produção, focando em eficiência e design para manufatura.
-* **Desenvolvedor de Hardware (4 anos):** Experiência prática na criação de protótipos inteligentes e automação utilizando microcontroladores.
-* **Técnico Ambiental:** Expertise em garantir que o progresso tecnológico caminhe junto com as normas ambientais e a sustentabilidade.
+### 🔬 Formação & Trajetória
+* **Graduando em Ciência e Tecnologia** – UFERSA (Foco em Engenharia de Software).
+* **Técnico Ambiental** – Formação focada em sustentabilidade e análise de impacto.
+* **Projetista Industrial** – 2 anos de atuação direta com design de componentes e processos industriais.
+* **Desenvolvedor de Hardware** – 4 anos de experiência prática com microcontroladores e automação.
 
 ---
 
-### 📊 Estatísticas e Atividade
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braga-lb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga-lb&layout=compact&theme=tokyonight" />
-</p>
+### 📊 Atividade e Desempenho
+*Nota: Se os gráficos abaixo não aparecerem imediatamente, tente atualizar a página em alguns minutos (o GitHub está processando seus dados).*
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=braga-lb&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braga-lb&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga-lb&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -60,4 +59,4 @@ Atualmente, sou graduando em Ciência e Tecnologia pela **UFERSA** e bolsista de
 </p>
 
 ---
-> "O código é a ferramenta, mas a engenharia é o que resolve o problema."
+> "O código é a ferramenta, mas a engenharia de precisão é o que resolve o problema."
