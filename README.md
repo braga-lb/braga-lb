@@ -1,35 +1,44 @@
 # Olá, eu sou o Levy Braga 👋
 
-### 🌍 Do Meio Ambiente e Indústria para a Inteligência Artificial
-Minha trajetória é movida pela convergência de disciplinas. Sou **Técnico Ambiental** e **Projetista Industrial**, com uma base sólida de 4 anos em **Sistemas Embarcados**. Atualmente, curso Ciência e Tecnologia na **UFERSA**, focando minha transição de carreira para a **Engenharia de Software**.
-
-Como bolsista de pesquisa em **Veículos Autônomos para Agricultura**, uno meu conhecimento sobre o meio ambiente e mecânica para desenvolver soluções de **Visão Computacional** que tornem o campo mais inteligente e sustentável.
+### 🛰️ De Projetista e Técnico Ambiental à Engenharia de Software
+> Pesquisador de Veículos Autônomos @ UFERSA | AgTech | Visão Computacional
 
 ---
 
-### 🛠️ Minha Bagagem Multidisciplinar
-* **AgTech & Pesquisa:** Desenvolvimento de algoritmos de navegação e visão computacional para automação agrícola (UFERSA).
-* **Engenharia & Design:** 2 anos como Projetista Industrial, dominando a visão espacial e estrutural de projetos.
-* **Sistemas Embarcados:** 4 anos programando microcontroladores (C/C++), conectando sensores ao mundo real.
-* **Sustentabilidade:** Técnico Ambiental, garantindo uma visão ética e ecológica sobre o desenvolvimento tecnológico.
+### 🛠️ Minha Toolbox (Botões de Tecnologia)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,arduino,linux,git,docker,raspberrypi,solidity,mysql" />
+  </a>
+</p>
 
 ---
 
-### 🧪 Tech Stack em Evolução
-* **Software/IA:** Python (OpenCV, Processamento de Imagens), Estudante de Engenharia de Software.
-* **Hardware:** C/C++, Microcontroladores (Arduino, ESP32, STM32).
-* **Industrial:** CAD/CAM, Leitura Técnica, Projetos Mecânicos.
-* **Ferramentas:** Git, GitHub, Linux.
+### 📊 Minhas Estatísticas (Gráficos Dinâmicos)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga-lb&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braga-lb&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📊 O que estou construindo
-Atualmente focado em projetos que aplicam **Visão Computacional** para identificação de padrões no campo e sistemas de decisão para robótica móvel.
+### 🚜 Áreas de Atuação & Pesquisa
+* **Veículos Autônomos:** Navegação e IA para o semiárido.
+* **Sistemas Embarcados:** 4 anos de experiência com microcontroladores.
+* **Desenho Industrial:** 2 anos como Projetista Mecânico.
+* **Meio Ambiente:** Técnico Ambiental focado em tecnologias sustentáveis.
 
 ---
 
-### 📫 Conecte-se comigo
-https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit • tallyssonlevydef@gmail.com • UFERSA - Pesquisa AgTech
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-> "Minha missão é codificar a eficiência industrial e a preservação ambiental através da tecnologia autônoma."
+> "Integrando a precisão mecânica com a inteligência do código."
