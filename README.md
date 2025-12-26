@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Minha Toolbox (Botões de Tecnologia)
+### 🛠️ Minha Toolbox 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js,arduino,linux,git,docker,raspberrypi,solidity,mysql" />
@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas (Gráficos Dinâmicos)
+### 📊 Minhas Estatísticas 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga-lb&layout=compact&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braga-lb&show_icons=true&theme=tokyonight&hide_border=true" />
