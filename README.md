@@ -39,7 +39,6 @@ Minha experiência une a precisão do **Design Industrial** (2 anos) com a intel
 ---
 
 ### 📊 Atividade e Desempenho
-*Nota: Se os gráficos abaixo não aparecerem imediatamente, tente atualizar a página em alguns minutos (o GitHub está processando seus dados).*
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braga-lb&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
