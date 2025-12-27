@@ -10,7 +10,7 @@ Minha experiência une a precisão do **Design Industrial** (2 anos) com a intel
 
 ---
 
-### 🛠️ Toolbox Técnica (Hard Skills)
+### 🛠️ Toolbox Técnica 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,arduino,linux,git,docker,mysql,raspberrypi,solidity&theme=dark" />
@@ -25,7 +25,7 @@ Minha experiência une a precisão do **Design Industrial** (2 anos) com a intel
 
 ---
 
-### 📈 Atividade e Desempenho (Métricas do Perfil)
+### 📈 Atividade e Desempenho 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Pesquisador_UFERSA-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
