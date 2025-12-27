@@ -1,4 +1,4 @@
-# 👨‍💻 Levy Braga
+# Levy Braga
 **Pesquisador de Sistemas Autônomos | Projetista Industrial | Técnico Ambiental**
 
 ---
