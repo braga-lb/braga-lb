@@ -59,3 +59,14 @@ Minha experiência une a precisão do **Design Industrial** (2 anos) com a intel
 
 ---
 > "O código é a ferramenta, mas a engenharia de precisão é o que resolve o problema."
+>
+> ---
+
+### 📊 Atividade e Desempenho
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braga_lb&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga_lb&layout=compact&theme=dark" />
+</p>
+
+---
