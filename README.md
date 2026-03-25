@@ -1,5 +1,5 @@
 # Levy Braga
-**Pesquisador de Sistemas Autônomos | Projetista Industrial | Técnico Ambiental**
+**Desenvolvedor de Sistemas Autônomos | Projetista Industrial | Técnico Ambiental**
 
 ---
 
